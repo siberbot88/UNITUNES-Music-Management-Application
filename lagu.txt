@@ -1,0 +1,102 @@
+template isi lagu :
+Daftar Lagu
+Lagu: Hati-Hati di Jalan
+
+Penyanyi: Tulus
+Tahun Terbit: 2022
+Genre: Pop
+Lagu: Cinta Luar Biasa
+
+Penyanyi: Andmesh Kamaleng
+Tahun Terbit: 2018
+Genre: Pop
+Lagu: Kasih Putih
+
+Penyanyi: Glenn Fredly
+Tahun Terbit: 2000
+Genre: Pop
+Lagu: Semua Tentang Kita
+
+Penyanyi: Peterpan
+Tahun Terbit: 2003
+Genre: Pop Rock
+Lagu: Pernah
+
+Penyanyi: Azmi
+Tahun Terbit: 2017
+Genre: Pop
+Lagu: Surat Cinta untuk Starla
+
+Penyanyi: Virgoun
+Tahun Terbit: 2016
+Genre: Pop
+Lagu: Separuh Aku
+
+Penyanyi: NOAH
+Tahun Terbit: 2012
+Genre: Pop Rock
+Lagu: Rindu
+
+Penyanyi: Agnez Mo
+Tahun Terbit: 2003
+Genre: Pop
+Lagu: Mantan Terindah
+
+Penyanyi: Raisa
+Tahun Terbit: 2013
+Genre: Pop
+Lagu: Aku yang Tersakiti
+
+Penyanyi: Judika
+Tahun Terbit: 2011
+Genre: Pop
+Lagu: Tak Bisa ke Lain Hati
+
+Penyanyi: KLa Project
+Tahun Terbit: 1990
+Genre: Pop
+Lagu: Yang Terbaik
+
+Penyanyi: Gigi
+Tahun Terbit: 2007
+Genre: Pop Rock
+Lagu: Ruang Rindu
+
+Penyanyi: Letto
+Tahun Terbit: 2005
+Genre: Pop
+Lagu: Sampai Menutup Mata
+
+Penyanyi: Acha Septriasa
+Tahun Terbit: 2007
+Genre: Pop
+Lagu: Dia
+
+Penyanyi: Anji
+Tahun Terbit: 2016
+Genre: Pop
+Lagu: Buka Hatimu
+
+Penyanyi: Armada
+Tahun Terbit: 2012
+Genre: Pop Rock
+Lagu: Kehilangan
+
+Penyanyi: Firman
+Tahun Terbit: 2012
+Genre: Pop
+Lagu: Jikalau Kau Cinta
+
+Penyanyi: Judika
+Tahun Terbit: 2018
+Genre: Pop
+Lagu: Sempurna
+
+Penyanyi: Andra and The Backbone
+Tahun Terbit: 2007
+Genre: Pop Rock
+Lagu: Menunggu Kamu
+
+Penyanyi: Anji
+Tahun Terbit: 2018
+Genre: Pop

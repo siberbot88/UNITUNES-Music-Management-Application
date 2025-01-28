@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "watermark.showOnAllViews": true,
+    "watermark.text": "Mohammad Bayu Rizki 23082010054",
+    "watermark.opacity": 0.3,
+    "watermark.fontSize": 18,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "commentTranslate.source": "Google"
+}
