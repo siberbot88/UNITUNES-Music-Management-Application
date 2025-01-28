@@ -1,4 +1,4 @@
-# 🎵 UNITUNES - Music Management Application
+# UNITUNES - Music Management Application
 
 Welcome to **UNITUNES**, a Java-based music management application! This project is designed to help manage music libraries, playlists, and songs efficiently using object-oriented programming principles.
 
